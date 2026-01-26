@@ -1,0 +1,4 @@
+##################Leetcode##################
+1984. Minimum Difference Between Highest and Lowest of K Scores -> Easy
+1200. Minimum Absolute Difference -> Easy
+1877. Minimize Maximum Pair Sum in Array  -> Easy 
