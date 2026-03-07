@@ -2,3 +2,5 @@
 1984. Minimum Difference Between Highest and Lowest of K Scores -> Easy
 1200. Minimum Absolute Difference -> Easy
 1877. Minimize Maximum Pair Sum in Array  -> Easy 
+1888. Minimum Number of Flips to Make the Binary String Alternating -> Medium -> Sliding Window (***)
+1758. Minimum Changes To Make Alternating Binary String -> Easy -> Bit Manipulation (***)
