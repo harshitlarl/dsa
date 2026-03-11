@@ -1,4 +1,4 @@
-package questions;
+package questions.Tree;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,11 +28,6 @@ public class TreeTraversal {
         inorderTraversal(root.right);
         return ans;
     }
-
-    public List<TreeNode> generateTrees(int n) {
-        ha 
-    }
-
     
 }
 

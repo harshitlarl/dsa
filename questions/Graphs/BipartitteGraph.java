@@ -1,4 +1,4 @@
-package questions;
+package questions.Graphs;
 
 public class BipartitteGraph {
     public static void main(String[] args) {

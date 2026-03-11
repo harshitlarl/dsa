@@ -1,4 +1,4 @@
-package questions;
+package questions.Heaps;
 
 import java.util.Arrays;
 import java.util.Collection;

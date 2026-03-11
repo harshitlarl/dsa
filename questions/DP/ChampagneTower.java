@@ -1,4 +1,4 @@
-package questions;
+package questions.DP;
 
 public class ChampagneTower {
     public static void main(String[] args) {
@@ -19,21 +19,4 @@ public class ChampagneTower {
         return dp[query_row][query_glass];
     }
 
-    public String addBinary(String a, String b) {
-        StringBuilder sb = new StringBuilder();
-        int p1=a.length()-1,p2=b.length()-1, carry =0;
-        while(p1>=0&& p2>=0){
-            int currBit = ((a.charAt(p1)-'0') + (b.charAt(p2)-'0')+ carry)%2;
-            carry = ((a.charAt(p1)-'0') + (b.charAt(p2)-'0')+ carry)/2;
-            sb.appe
-        }
-        while(p1>=0){
-            sb.append()
-        }
-        while(p2>=0){
-
-        }
-
-        return sb.toString();
-    }
 }
