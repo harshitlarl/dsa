@@ -5,3 +5,6 @@
 1888. Minimum Number of Flips to Make the Binary String Alternating -> Medium -> Sliding Window (****)
 1758. Minimum Changes To Make Alternating Binary String -> Easy -> Bit Manipulation (***)
 1980. Find Unique Binary String -> Easy -> Recursion(***)
+1009. Complement of Base 10 Integer -> Easy -> Bit Manipulation(****)
+2273. Find Resultant Array After Removing Anagrams -> Easy -> Hashing & String
+3600. Maximize Spanning Tree Stability with Upgrades -> Very Hard -> Graph, Trees, DSU, BInary Search(*****)
