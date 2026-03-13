@@ -1,4 +1,3 @@
-package mar_2026;
 import java.util.*;
 
 public class Mar7_1980 {

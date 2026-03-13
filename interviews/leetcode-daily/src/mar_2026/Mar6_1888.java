@@ -1,4 +1,4 @@
-package mar_2026;
+
 
 public class Mar6_1888 {
     class Solution {

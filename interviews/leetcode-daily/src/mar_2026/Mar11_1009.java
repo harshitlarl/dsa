@@ -1,5 +1,3 @@
-package mar_2026;
-
 public class Mar11_1009 {
     class Solution {
     public int bitwiseComplement(int n) {

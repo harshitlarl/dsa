@@ -1,4 +1,3 @@
-package mar_2026;
 
 public class Mar5_1784 {
     //https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones
