@@ -8,3 +8,4 @@
 1009. Complement of Base 10 Integer -> Easy -> Bit Manipulation(****)
 2273. Find Resultant Array After Removing Anagrams -> Easy -> Hashing & String
 3600. Maximize Spanning Tree Stability with Upgrades -> Very Hard -> Graph, Trees, DSU, BInary Search(*****)
+3296. Minimum Number of Seconds to Make Mountain Height Zero -> Medium -> BS, Prioirty Queue (****)
