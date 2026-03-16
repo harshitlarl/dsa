@@ -9,3 +9,11 @@
 2273. Find Resultant Array After Removing Anagrams -> Easy -> Hashing & String
 3600. Maximize Spanning Tree Stability with Upgrades -> Very Hard -> Graph, Trees, DSU, BInary Search(*****)
 3296. Minimum Number of Seconds to Make Mountain Height Zero -> Medium -> BS, Prioirty Queue (****)
+104. Maximum Depth of Binary Tree -> Easy -> Tree(*)
+100. Same Tree -> Easy -> Tree(*)
+226. Invert Binary Tree -> Easy -> Tree(*)
+124. Binary Tree Maximum Path Sum -> Hard -> DP + Tree(****)
+102. Binary Tree Level Order Traversal -> Easy -> Tree(***)
+297. Serialize and Deserialize Binary Tree -> Hard -> Tree(***)
+572. Subtree of Another Tree -> Easy -> Tree(***)
+1878. Get Biggest Three Rhombus Sums in a Grid -> Medium -> Maths(**)
